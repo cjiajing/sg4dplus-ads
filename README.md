@@ -21,3 +21,15 @@ You can view the verified file directly here:
 👉 [https://cjiajing.github.io/sg4dplus-ads/app-ads.txt](https://cjiajing.github.io/sg4dplus-ads/app-ads.txt)
 
 Contents:
+google.com, pub-7370363220390290, DIRECT, f08c47fec0942fa0
+
+---
+
+## 📬 Contact
+For app-related inquiries or support:  
+📧 Email: [sg4dplus@gmail.com](mailto:sg4dplus@gmail.com)  
+🌐 Support: [https://bit.ly/SG4DplusSupportMarketing](https://bit.ly/SG4DplusSupportMarketing)
+
+---
+
+© 2025 Christopher Cho Jia Jing. All rights reserved.
